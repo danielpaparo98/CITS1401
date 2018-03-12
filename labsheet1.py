@@ -1,3 +1,5 @@
+# Author: Daniel Paparo
+
 #Main question 5
 def square(x):
         #returns the square of x
